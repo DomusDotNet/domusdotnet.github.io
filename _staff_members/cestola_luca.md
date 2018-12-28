@@ -1,4 +1,5 @@
 ---
+layout: staff_member
 name: Luca Cestola
 position: Senior Analyst
 company: Proge-Software

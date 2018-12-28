@@ -1,4 +1,5 @@
 ---
+layout: staff_member
 name: Massimo Bonanni
 position: Senior Consultant Modern Apps
 company: Microsoft

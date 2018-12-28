@@ -1,4 +1,5 @@
 ---
+layout: staff_member
 name: Matteo Emili
 position: Systems Engineering Advisor
 company: DELL

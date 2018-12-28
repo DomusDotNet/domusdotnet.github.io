@@ -1,4 +1,5 @@
 ---
+layout: staff_member
 name: Nicolò Carandini
 position: Senior Developer
 company: TPCWare

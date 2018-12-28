@@ -1,4 +1,5 @@
 ---
+layout: staff_member
 name: Tony Pierascenzi
 position: Senior Consultant
 company: React Consulting

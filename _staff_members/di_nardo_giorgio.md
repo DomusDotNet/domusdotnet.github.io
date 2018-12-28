@@ -1,4 +1,5 @@
 ---
+layout: staff_member
 name: Giorgio Di Nardo
 position: Project Manager
 company: Proge-Software

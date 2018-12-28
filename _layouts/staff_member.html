@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="it">
+{% include head.html %}
+<body>
+    {% include header.html %}
+    <section id="staff_member">
+        <div class="container">
+            <div class="row py-2">
+                <div class="col-md-12">
+                    <img class="rounded-circle img-thumbnail member-img"
+                src = "/assets/images/staff_images/{{ page.image }}.png" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-left">
+                    {{ page.name }} <br/>
+                    {{ page.position }} - {{ page.company }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-left">
+                    <p>{{ content | markdownify }}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% include footer.html %}
+</body>
+</html>

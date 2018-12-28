@@ -1,4 +1,5 @@
 ---
+layout: staff_member
 name: Marco Amendola
 position: Owner & CTO
 company: 2I Iniziative Informatiche
