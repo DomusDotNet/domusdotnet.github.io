@@ -1,12 +1,12 @@
 ---
 layout: staff_member
 name: Giorgio Di Nardo
-position: Project Manager
+position: Project Manager & Solution Architect
 company: Proge-Software
 image: g_di_nardo
-url: https://it.linkedin.com/in/akelitz/it
+url: https://www.linkedin.com/in/giorgio-dinardo/
 twitter: akelitz
-github: nil
+github: akelitz
 role: staff
 co-founder: true
 ---
