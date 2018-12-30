@@ -2,11 +2,11 @@
 layout: staff_member
 name: Marco Amendola
 position: Owner & CTO
-company: 2I Iniziative Informatiche
+company: Teqnio
 image: m_amendola
 url: https://it.linkedin.com/in/marcoamendola/it
-twitter: nil
-github: nil
+twitter: marcoamendola
+github: marcoamendola
 role: staff
 co-founder: true
 ---
