@@ -20,4 +20,93 @@ Quest'anno le due track saranno 'introduttiva' ed 'avanzata', coprendo sia temi 
 La registrazione è gratuita ma obbligatoria per poter partecipare allevento.
 Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti-devopswork-2019-53471685250)*** , completa i passaggi richiesti e aggiungi la data al tuo calendario!
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/0bbvnh30/view/grid"></script>
+<!-- <script type="text/javascript" src="https://sessionize.com/api/v2/0bbvnh30/view/grid"></script> -->
+
+<style>
+    table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    }
+</style>
+
+<table style="text-allign:center; max-width: 800px;">
+	<tr>
+		<td>9:00</td>
+		<td>9:30</td>
+		<td colspan="2" style="text-align: center"><b>Registrazione</b></td>
+	</tr>
+	<tr>
+		<td>9:30</td>
+		<td>9:45</td>
+		<td colspan="2" style="text-align: center"><b>Keynote</b></td>
+	</tr>
+	<tr>
+		<td>9:45</td>
+		<td>10:00</td>
+		<td colspan="2" style="text-align: center"><b>Separazione delle sale</b></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td style="text-align: center"><b>INTRODUTTIVA</b></td>
+		<td style="text-align: center"><b>AVANZATA</b></td>
+
+	</tr>
+	<tr>
+		<td valign="top">10:00</td>
+		<td valign="top">10:45</td>
+		<td valign="top"><b>In viaggio verso DevOps</b><br/>Giulio Vian</td>
+		<td valign="top"><b>Business Agility ed Enterprise Agility, strategie e tattiche per un ecosistema vincente</b><br/>Felice Pescatore</td>
+	</tr>
+	<tr>
+		<td>10:45</td>
+		<td>11:00</td>
+		<td colspan="2" style="text-align: center"><b>Coffee break</b></td>
+	</tr>
+	<tr>
+		<td valign="top">11:00</td>
+		<td valign="top">11:45</td>
+		<td valign="top"><b>Case study - Il Viaggio di Modine verso una Cultura DevOps</b><br/>Daniele Pozzobon</td>
+		<td valign="top"><b>Software Quality Assurance con Azure DevOps</b><br/>Giorgio Di Nardo</td>
+	</tr>
+	<tr>
+		<td valign="top">11:55</td>
+		<td valign="top">12:40</td>
+		<td valign="top"><b>DevOps&#64;Microsoft: Live Site Culture and Site Reliability Engineering</b><br/>Fabrizio Morando</td>
+		<td valign="top"><b>DevOps second way, feedback - SQL Server Unit Testing</b><br/>Alessandro Alpi</td>
+	</tr>
+	<tr>
+		<td>12:40</td>
+		<td>14:00</td>
+		<td colspan="2" style="text-align: center"><b>Pranzo</b></td>
+	</tr>
+	<tr>
+		<td valign="top">14:00</td>
+		<td valign="top">14:45</td>
+		<td valign="top"><b>Strategie di migrazione da TFS ad Azure DevOps - come, e perché</b><br/>Matteo Emili</td>
+		<td valign="top"><b>Xamarin DevOps</b><br/>Nicolò Carandini</td>
+	</tr>
+	<tr>
+		<td valign="top">14:45</td>
+		<td valign="top">15:00</td>
+		<td colspan="2" style="text-align: center"><b>Coffee break</b></td>
+	</tr>
+	<tr>
+		<td valign="top">15:00</td>
+		<td valign="top">15:45</td>
+		<td valign="top"><b>AKS: Kubernetes e Azure alla massima potenza</b><br/>Alessandro Melchiori</td>
+		<td valign="top"><b>Real World Build + Release automation in Azure DevOps</b><br/>Gian Maria Ricci</td>
+	</tr>
+	<tr>
+		<td valign="top">15:55</td>
+		<td valign="top">16:40</td>
+		<td valign="top"><b>Serverless</b><br/>Massimo Bonanni</td>
+		<td valign="top"><b>Deploying & Scaling containers with Azure DevOps & Kubernetes</b><br/>Antonio Liccardi</td>
+	</tr>
+	<tr>
+		<td>16:45</td>
+		<td>17:00</td>
+		<td colspan="2" style="text-align: center"><b>Closing</b></td>
+	</tr>
+</table>
