@@ -22,15 +22,7 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 
 <!-- <script type="text/javascript" src="https://sessionize.com/api/v2/0bbvnh30/view/grid"></script> -->
 
-<style>
-    table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 15px;
-    }
-</style>
-
-<table style="text-allign:center; max-width: 800px;">
+<table class="table table-bordered">
 	<tr>
 		<td>9:00</td>
 		<td>9:30</td>
