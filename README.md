@@ -52,7 +52,7 @@ e completare il tutto installando il tema di default (che come side effect caric
 
 
 ```
-gem install jekyll bundler
+gem install minima
 ```
 
 ### Istallare VS Code e l'estensione Shell Launcer
