@@ -93,7 +93,7 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 	<tr>
 		<td valign="top">15:55</td>
 		<td valign="top">16:40</td>
-		<td valign="top"><b>Serverless</b><br/>Massimo Bonanni</td>
+		<td valign="top"><b>Azure Functions <3 DevOps</b><br/>Massimo Bonanni</td>
 		<td valign="top"><b>Deploying & Scaling containers with Azure DevOps & Kubernetes</b><br/>Antonio Liccardi</td>
 	</tr>
 	<tr>
