@@ -15,6 +15,10 @@ In questo incontro vengono affrontate due tematiche molto rilevanti nello svilup
 
 Quando l'obiettivo è rilasciare valore al cliente, la qualità del software prodotto non può essere un accessorio ma deve diventare una parte fondamentale del software. Che si tratti di unit test automatizzati o di exploratory test manuali, di system test o di load test, Azure DevOps fornisce tutti gli strumenti necessari per assicurarsi di produrre software di qualità.
 
+[![Software Quality Assurance](http://img.youtube.com/vi/YG5_DR0SB54/0.jpg)](http://www.youtube.com/watch?v=YG5_DR0SB54 "Software Quality Assurance")
+
 - Microservices Unleashed: from code to production with Azure Devops
 
 I microservizi rappresentano oggi giorno un approccio architetturale che per la loro flessibilità si adattano facilmente a diversi contesti. Inoltre, grazie all'esistenza di tecnologie come ASP.NET Core, Docker e Kubernetes possiamo realizzare applicazioni di una certa complessità con un ciclo di sviluppo relativamente breve. Tutto questo richiede però una cultura aziendale e un processo di sviluppo software ben definito. In questa sessione vedremo come Azure DevOps può ricoprire un ruolo fondamentale nello sviluppo di una applicazione a microservizi.
+
+[![Microservices Unleashed: from code to production with Azure Devops](http://img.youtube.com/vi/bxS2Qf1wMDk/0.jpg)](http://www.youtube.com/watch?v=bxS2Qf1wMDk "Microservices Unleashed: from code to production with Azure Devops")
