@@ -4,7 +4,7 @@ name: Luca Cestola
 position: Senior Analyst
 company: Proge-Software
 image:  l_cestola
-url: https://it.linkedin.com/pub/luca-cestola/9/652/122/it
+linkedin: https://it.linkedin.com/pub/luca-cestola/9/652/122/it
 twitter: nil
 github: nil
 role: staff
