@@ -13,8 +13,9 @@
             </div>
             <div class="row">
                 <div class="col-md-12 text-left">
-                    {{ page.name }} <br/>
-                    {{ page.position }} - {{ page.company }}
+                    <h5>{{ page.name }}</h5> 
+                    {{ page.position }} - {{ page.company }} <br/><br/>
+                    {% include staff_member_social_links.html %}
                 </div>
             </div>
             <div class="row">
