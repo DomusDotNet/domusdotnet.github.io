@@ -4,9 +4,10 @@ name: Tony Pierascenzi
 position: Senior Consultant
 company: React Consulting
 image:  a_pierascenzi
-linkedin: https://it.linkedin.com/in/antoniopierascenzi
-twitter: https://twitter.com/pythonyan
-github: https://github.com/pythonyan
+blog_url: http://pythonyan.wordpress.com/
+linkedin: antoniopierascenzi
+twitter: pythonyan
+github: pythonyan
 role: staff
 co-founder: true
 ---

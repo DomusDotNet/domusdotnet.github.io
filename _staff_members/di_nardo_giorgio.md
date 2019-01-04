@@ -4,7 +4,8 @@ name: Giorgio Di Nardo
 position: Project Manager & Solution Architect
 company: Proge-Software
 image: g_di_nardo
-linkedin: https://www.linkedin.com/in/giorgio-dinardo/
+blog_url: null
+linkedin: giorgio-dinardo
 twitter: akelitz
 github: akelitz
 role: staff

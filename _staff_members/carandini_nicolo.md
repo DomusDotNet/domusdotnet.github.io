@@ -4,7 +4,8 @@ name: Nicolò Carandini
 position: Senior Developer
 company: TPCWare
 image: n_carandini
-url: https://www.linkedin.com/in/ncarandini
+blog_url: http://blog.tpcware.com
+linkedin: ncarandini
 twitter: tpcware
 github: ncarandini
 role: lead
