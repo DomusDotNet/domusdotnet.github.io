@@ -4,7 +4,8 @@ name: Matteo Emili
 position: Manager, Software Engineering
 company: Avanade
 image: m_emili
-url: https://uk.linkedin.com/in/matteoemili/it
+blog_url: null
+linkedin: matteoemili
 twitter: MattVSTS
 github: MattVSTS
 role: staff

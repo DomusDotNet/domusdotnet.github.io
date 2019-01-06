@@ -4,9 +4,10 @@ name: Massimo Bonanni
 position: Senior Consultant Modern Apps
 company: Microsoft
 image: m_bonanni
-url: https://it.linkedin.com/in/massimobonanni
-twitter: nil
-github: nil
+blog_url: http://codetailor.blogspot.com
+linkedin: massimobonanni
+twitter: massimobonanni
+github: massimobonanni
 role: co-lead
 co-founder: true
 ---
