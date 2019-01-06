@@ -4,9 +4,10 @@ name: Antonio Giglio
 position: Team Leader & Senior Consultant
 company: React Consulting
 image:  a_giglio
-url: https://www.linkedin.com/in/antonio-giglio
+blog_url: null
+linkedin: antonio-giglio
 twitter: https://twitter.com/agiglio71
-github: nil
+github: null
 role: staff
 co-founder: false
 ---
