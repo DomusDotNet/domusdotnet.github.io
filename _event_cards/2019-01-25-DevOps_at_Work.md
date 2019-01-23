@@ -66,7 +66,7 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 		<td valign="top">11:55</td>
 		<td valign="top">12:40</td>
 		<td valign="top"><b>DevOps&#64;Microsoft: Live Site Culture and Site Reliability Engineering</b><br/>Fabrizio Morando</td>
-		<td valign="top"><b>DevOps second way, feedback - SQL Server Unit Testing</b><br/>Alessandro Alpi</td>
+		<td valign="top"><b>Cosa ho imparato trasformando software factory</b><br/>Matteo Emili</td>
 	</tr>
 	<tr>
 		<td>12:40</td>
