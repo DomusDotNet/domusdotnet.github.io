@@ -65,7 +65,7 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 	<tr>
 		<td valign="top">11:55</td>
 		<td valign="top">12:40</td>
-		<td valign="top"><b>DevOps&#64;Microsoft: Live Site Culture and Site Reliability Engineering</b><br/>Fabrizio Morando</td>
+		<td valign="top"><b>DevOps&#64;Microsoft: Live Site Culture and Site Reliability Engineering</b><br/>Fabrizio Morando, Federico Luciano</td>
 		<td valign="top"><b>Software Quality Assurance con Azure DevOps</b><br/>Giorgio Di Nardo</td>
 	</tr>
 	<tr>
