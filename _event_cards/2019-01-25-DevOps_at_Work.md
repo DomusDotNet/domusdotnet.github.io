@@ -60,13 +60,13 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 		<td valign="top">11:00</td>
 		<td valign="top">11:45</td>
 		<td valign="top"><b>Case study - Il Viaggio di Modine verso una Cultura DevOps</b><br/>Daniele Pozzobon</td>
-		<td valign="top"><b>Software Quality Assurance con Azure DevOps</b><br/>Giorgio Di Nardo</td>
+		<td valign="top"><b>Cosa ho imparato trasformando software factory</b><br/>Matteo Emili</td>
 	</tr>
 	<tr>
 		<td valign="top">11:55</td>
 		<td valign="top">12:40</td>
 		<td valign="top"><b>DevOps&#64;Microsoft: Live Site Culture and Site Reliability Engineering</b><br/>Fabrizio Morando</td>
-		<td valign="top"><b>Cosa ho imparato trasformando software factory</b><br/>Matteo Emili</td>
+		<td valign="top"><b>Software Quality Assurance con Azure DevOps</b><br/>Giorgio Di Nardo</td>
 	</tr>
 	<tr>
 		<td>12:40</td>
