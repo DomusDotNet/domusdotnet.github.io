@@ -1,5 +1,9 @@
 [
     {
+        "title": "Prossimo evento",
+        "source": "NextEvent.png"
+    },
+    {
         "title": "ASP.NET Core //Build Reloaded 2017",
         "source": "AspNetCoreBuildReloaded2017_001.png"
     },
