@@ -63,12 +63,15 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 		<br/>
 		<a href="https://youtu.be/t-cQ40WvpMc" target="_blank">Video</a>
 		</td>
-		<td valign="top"><b>Cosa ho imparato trasformando software factory</b><br/>Matteo Emili</td>
+		<td valign="top"><b>Cosa ho imparato trasformando software factory</b><br/>Matteo Emili
+		</td>
 	</tr>
 	<tr>
 		<td valign="top">11:55</td>
 		<td valign="top">12:40</td>
-		<td valign="top"><b>DevOps&#64;Microsoft: Live Site Culture and Site Reliability Engineering</b><br/>Fabrizio Morando, Federico Luciano</td>
+		<td valign="top"><b>DevOps&#64;Microsoft: Live Site Culture and Site Reliability Engineering</b><br/>Fabrizio Morando, Federico Luciano
+			<br/>
+		<a href="https://youtu.be/re5LFXY3yjE" target="_blank">Video</a></td>
 		<td valign="top"><b>Software Quality Assurance con Azure DevOps</b><br/>Giorgio Di Nardo</td>
 	</tr>
 	<tr>
@@ -79,7 +82,8 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 	<tr>
 		<td valign="top">14:00</td>
 		<td valign="top">14:45</td>
-		<td valign="top"><b>Strategie di migrazione da TFS ad Azure DevOps - come, e perché</b><br/>Matteo Emili</td>
+		<td valign="top"><b>Strategie di migrazione da TFS ad Azure DevOps - come, e perché</b><br/>Matteo Emili<br/>
+		<a href="https://youtu.be/ySB7fgRkWeo" target="_blank">Video</a></td>
 		<td valign="top"><b>Xamarin DevOps</b><br/>Nicolò Carandini</td>
 	</tr>
 	<tr>
@@ -96,7 +100,8 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 	<tr>
 		<td valign="top">15:55</td>
 		<td valign="top">16:40</td>
-		<td valign="top"><b>Azure Functions <3 DevOps</b><br/>Massimo Bonanni</td>
+		<td valign="top"><b>Azure Functions <3 DevOps</b><br/>Massimo Bonanni<br/>
+		<a href="https://youtu.be/zx7rnrlOYrg" target="_blank">Video</a></td>
 		<td valign="top"><b>Deploying & Scaling containers with Azure DevOps & Kubernetes</b><br/>Antonio Liccardi</td>
 	</tr>
 	<tr>
