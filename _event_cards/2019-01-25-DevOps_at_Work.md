@@ -59,7 +59,10 @@ Vai sulla nostra pagina su ***[Eventbrite](https://www.eventbrite.it/e/biglietti
 	<tr>
 		<td valign="top">11:00</td>
 		<td valign="top">11:45</td>
-		<td valign="top"><b>Case study - Il Viaggio di Modine verso una Cultura DevOps</b><br/>Daniele Pozzobon</td>
+		<td valign="top"><b>Case study - Il Viaggio di Modine verso una Cultura DevOps</b><br/>Daniele Pozzobon
+		<br/>
+		<a src="https://youtu.be/t-cQ40WvpMc" target="_blank">Video</a>
+		</td>
 		<td valign="top"><b>Cosa ho imparato trasformando software factory</b><br/>Matteo Emili</td>
 	</tr>
 	<tr>
