@@ -6,7 +6,7 @@ kind: meetup
 location: Microsoft Roma
 registration_url: https://www.eventbrite.it/e/biglietti-meetup-aperitech-di-domusdotnet-56045686156
 published: true
-completed: false
+completed: true
 ---
 
 In questo incontro affronteremo un aspetto molto conosciuto ma spesso trascurato, ovvero l'uso di HTTPS.
