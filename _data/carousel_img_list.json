@@ -1,7 +1,7 @@
 [
     {
         "title": "Prossimo evento",
-        "source": "NextEvent.png"
+        "source": "Machine_Learning2019_001.png"
     },
     {
         "title": "ASP.NET Core //Build Reloaded 2017",
@@ -22,5 +22,9 @@
     {
         "title": "XmasDev 2018",
         "source": "XmasDev2018_001.png"
+    },
+    {
+        "title": "Https e certificati digitali (mai più senza!)",
+        "source": "Https_Ssl_Free_Certificates2019_001.png"
     }
 ]
