@@ -54,9 +54,9 @@ permalink: /events/
       <div class="row py-2">
         <div class="col-md-12">
           <div class="event-kind">
-              {% if event.kind == 'meetup' %}
+            {% if event.kind == 'meetup' %}
               <img class="eventkind-img" src="/assets/images/meetup_icon.png" />
-            {% else if event.kind == 'lab' %}
+            {% elsif event.kind == 'lab' %}
               <img class="eventkind-img" src="/assets/images/handsonlab_icon.png" />
             {% else %}
               <img class="eventkind-img" src="/assets/images/conference_icon.png" />
