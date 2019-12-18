@@ -6,7 +6,7 @@ kind: conference
 location: Microsoft Roma
 registration_url: https://www.eventbrite.it/e/biglietti-devopswork-2019-53471685250
 published: true
-completed: false
+completed: true
 ---
 
 

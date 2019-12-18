@@ -33,7 +33,7 @@ Poi occorre installare Ruby, eseguendo nel terminale il seguente comando:
 sudo apt-get install ruby-full build-essential zlib1g-dev
 ```
 
-E poiché è meglio evitare di installare le `Ruby Gems` come utente root, occorre impostare una directory per l'installazione delle `Ruby Gems` per il vostro user account, eseguendo is seguenti comandi sempre nel terminale Ubuntu (potete copiare ed eseguire tutto in una volta):
+E poiché è meglio evitare di installare le `Ruby Gems` come utente root, occorre impostare una directory per l'installazione delle `Ruby Gems` per il vostro user account, eseguendo i seguenti comandi sempre nel terminale Ubuntu (potete copiare ed eseguire tutto in una volta):
 
 ```
 echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
@@ -42,7 +42,7 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Ora possiamo installare Jekyll col seguente comando:
+Ora è possibile installare Jekyll col seguente comando:
 
 ```
 gem install jekyll bundler
@@ -52,7 +52,7 @@ e completare il tutto installando il tema di default (che come side effect caric
 
 
 ```
-gem install jekyll bundler
+gem install minima
 ```
 
 ### Istallare VS Code e l'estensione Shell Launcer
